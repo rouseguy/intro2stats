@@ -28,6 +28,7 @@ Showcase real-life examples and what statistics to use in each of those examples
     * Pandas
     * Matplotlib
     * Seaborn
+    * IPython and IPython notebook - Everything here would be an IPython notebook
 * Software Requirements
     * Python 2.7
     * git - so that this repo can be cloned :)  
