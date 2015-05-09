@@ -22,7 +22,7 @@ Showcase real-life examples and what statistics to use in each of those examples
 * A simple linear regression model
 
 ## Prerequisites
-* Basics of Python. User should know how to write functions; read in a text file(csv, txt, fwf) and parse them; conditional and looping constructs; using standard libraries like os, sys 
+* Basics of Python. User should know how to write functions; read in a text file(csv, txt, fwf) and parse them; conditional and looping constructs; using standard libraries like os, sys; lists, list comprehension, dictionaries
 * It is good to know basics of the following:
     * Numpy
     * Scipy
