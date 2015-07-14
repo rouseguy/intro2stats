@@ -26,17 +26,17 @@ We would be using rainfall data of Indian districts (Data to be uploaded to the 
 
 There will be separate ipython notebooks - grouped by topic similarities.
 
-1)Find sum of rainfall in a year, by various districts.
-2)Find mean of rainfall in a year, by various districts
-3)Find variance of rainfall in selected districts. Find variance of selected states
-4)Define distribution. Plot histograms
-5)Determining outliers (Plots, quantiles, box plots, percentiles) in rainfall data
-6)Continuous distributions(exponential distribution, normal distribution)
-7)Introduction to Probability
-8)Hypothesis testing. Check if rainfall across districts in a state are similar or not. Check for states, regions
-9)Resampling
-10)Simple regression model: Predict rainfall for next year. Understand the output and diagnostics
-11)A/B testing:(We will be using marketing data):Check if marketing campaign was successful or not.
+* Find sum of rainfall in a year, by various districts.
+* Find mean of rainfall in a year, by various districts
+* Find variance of rainfall in selected districts. Find variance of selected states
+* Define distribution. Plot histograms
+* Determining outliers (Plots, quantiles, box plots, percentiles) in rainfall data
+* Continuous distributions(exponential distribution, normal distribution)
+* Introduction to Probability
+* Hypothesis testing. Check if rainfall across districts in a state are similar or not. Check for states, regions
+* Resampling
+* Simple regression model: Predict rainfall for next year. Understand the output and diagnostics
+* A/B testing:(We will be using marketing data):Check if marketing campaign was successful or not.
 
 
 ## Prerequisites
