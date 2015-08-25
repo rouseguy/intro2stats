@@ -51,7 +51,21 @@ There will be separate ipython notebooks - grouped by topic similarities.
 * Software Requirements
     * Python 2.7
     * git - so that this repo can be cloned :)  
+    * virtualenv
     * Libraries from *requirements.txt*
 
 ## Optional
 Users could choose to install Anaconda, if they want. Disclosure: I use Anaconda
+
+## Setup Guide
+
+####Clone the repository
+    $ git clone https://github.com/rouseguy/intro2stats.git
+
+####Create a virtual environment & activate
+    $ cd intro2stats
+    $ virtualenv env
+    $ source env/bin/activate
+
+####Install reqirements from requirements file
+    $ pip install -r requirements.txt
