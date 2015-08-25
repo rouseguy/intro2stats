@@ -1,0 +1,27 @@
+# Created by https://www.gitignore.io/api/vim,ipythonnotebook,virtualenv
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
+### IPythonNotebook ###
+# Temporary data
+.ipynb_checkpoints/
+
+
+### VirtualEnv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
+
