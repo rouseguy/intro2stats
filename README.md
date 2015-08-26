@@ -22,21 +22,21 @@ Showcase real-life examples and what statistics to use in each of those examples
 * A simple linear regression model
 
 ## Workshop Plan
-We would be using rainfall data of Indian districts (Data to be uploaded to the repo)
+We would be using Marijuana prices in various states of the USA, along with demographic data of the USA based on the latest census data
 
-There will be separate ipython notebooks - grouped by topic similarities.
-
-* Find sum of rainfall in a year, by various districts.
-* Find mean of rainfall in a year, by various districts
-* Find variance of rainfall in selected districts. Find variance of selected states
+There will be separate ipython notebooks - grouped by topic similarities. *notebooks will be uploaded later*
+Some examples include:
+* Find sum of people buying weed in a year, by various states.
+* Find mean of price in a week/month, by various states.
+* Find variance of price in selected states. Find variance of selected states by week of month
 * Define distribution. Plot histograms
-* Determining outliers (Plots, quantiles, box plots, percentiles) in rainfall data
+* Determining outliers (Plots, quantiles, box plots, percentiles) in weed price data
 * Continuous distributions(exponential distribution, normal distribution)
 * Introduction to Probability
-* Hypothesis testing. Check if rainfall across districts in a state are similar or not. Check for states, regions
+* Hypothesis testing. Check if weed price across states are similar or not. Check for different qualities of weed
 * Resampling
-* Simple regression model: Predict rainfall for next year. Understand the output and diagnostics
-* A/B testing:(We will be using marketing data):Check if marketing campaign was successful or not.
+* Simple regression model: Predict weed price for the next month. Understand the output and diagnostics
+* Introduction to A/B testing: Impact of regulation and deregulation on a couple of states 
 
 
 ## Prerequisites
@@ -55,7 +55,7 @@ There will be separate ipython notebooks - grouped by topic similarities.
     * Libraries from *requirements.txt*
 
 ## Optional
-Users could choose to install Anaconda, if they want. Disclosure: I use Anaconda
+Users could choose to install Anaconda, if they want. If using Anaconda or Enthought, please ensure that all libraries listed in the requirements.txt are installed.
 
 ## Setup Guide
 
