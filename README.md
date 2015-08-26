@@ -69,3 +69,9 @@ Users could choose to install Anaconda, if they want. Disclosure: I use Anaconda
 
 ####Install reqirements from requirements file
     $ pip install -r requirements.txt
+
+####Note: Make sure you have libraries for png & freetype.
+Ubuntu users can install the below
+
+    apt-get install libfreetype6-dev
+    apt-get install libpng-dev
