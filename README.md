@@ -77,3 +77,9 @@ Ubuntu users can install the below
 
     apt-get install libfreetype6-dev
     apt-get install libpng-dev
+
+###Script to check if installation is fine for the workshop
+Please execute the following at the command prompt
+    $ python check_env.py
+
+If any library has a `FAIL` message, please install/upgrade that library.
