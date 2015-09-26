@@ -6,6 +6,7 @@
     
     The output will indicate if any of the libraries are missing or need to be updated. 
 
+    This script is inspired from https://github.com/fonnesbeck/scipy2015_tutorial/blob/master/check_env.py
 """
 
 from __future__ import print_function
@@ -62,8 +63,3 @@ requirements = {'numpy': "1.9.2", 'pandas': "0.16.2", 'scipy': "0.9", 'matplotli
 # now the dependencies
 for lib, required_version in list(requirements.items()):
     import_version(lib, required_version)
-
-# pydot is a bit different
-import_version("pydot", "0", fail_msg="pydot is not installed. It is not required "
-               "but you will miss out on some plots. \nYou can install it using "
-               "'pip install pydot' on python2")
