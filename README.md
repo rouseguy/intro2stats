@@ -55,7 +55,9 @@ Some examples include:
     * Libraries from *requirements.txt*
 
 ## Optional
-Users could choose to install Anaconda, if they want. If using Anaconda or Enthought, please ensure that all libraries listed in the requirements.txt are installed.
+Users could choose to install Anaconda, if they want. If using Anaconda or Enthought, please ensure that all libraries listed in the requirements.txt are installed. 
+
+*Note to Windows Users*: Neither of us use Windows. From past workshop experiences, Windows users have faced issues installing the way explained below. It is advisable to install Anaconda and ensure that all the libraries listed in the *requirements.txt* file are installed.  
 
 ## Setup Guide
 
