@@ -1,3 +1,13 @@
+"""
+    This script will check if the environment setup is correct for the workshop.
+
+    To run, please execute the following command from the command prompt
+               >>> python check_env.py
+    
+    The output will indicate if any of the libraries are missing or need to be updated. 
+
+"""
+
 from __future__ import print_function
 
 try:
