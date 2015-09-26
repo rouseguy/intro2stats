@@ -41,3 +41,4 @@ terminado==0.5
 tornado==4.2.1
 traitlets==4.0.0
 vincent==0.4.4
+statsmodels==0.6.1
