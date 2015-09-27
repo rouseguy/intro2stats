@@ -23,6 +23,7 @@ notebook==4.0.4
 numpy==1.9.2
 pandas==0.16.2
 path.py==7.7
+patsy==0.4.0
 pbr==1.6.0
 pexpect==3.3
 pickleshare==0.5
