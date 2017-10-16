@@ -64,24 +64,24 @@ Users could choose to install Anaconda, if they want. If using Anaconda or Entho
 
 ## Setup Guide
 
-####Clone the repository
+#### Clone the repository
     $ git clone https://github.com/rouseguy/intro2stats.git
 
-####Create a virtual environment & activate
+#### Create a virtual environment & activate
     $ cd intro2stats
     $ virtualenv env
     $ source env/bin/activate
 
-####Install reqirements from requirements file
+#### Install reqirements from requirements file
     $ pip install -r requirements.txt
 
-####Note: Make sure you have libraries for png & freetype.
+#### Note: Make sure you have libraries for png & freetype.
 Ubuntu users can install the below
 
     apt-get install libfreetype6-dev
     apt-get install libpng-dev
 
-###Script to check if installation is fine for the workshop
+### Script to check if installation is fine for the workshop
 Please execute the following at the command prompt
 
     $ python check_env.py
